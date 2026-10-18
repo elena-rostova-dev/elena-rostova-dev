@@ -1,5 +1,9 @@
 # Elena Rostova
 
+<p align="center">
+  <img src="assets/programmer_cat.jpg" alt="Elena Rostova - Python Developer" width="100%" style="border-radius: 12px;">
+</p>
+
 Python developer based in Warsaw, Poland.  
 Specializing in static typing, runtime schema generation, data validation, and serialization protocols.
 
